@@ -1,0 +1,1179 @@
+﻿
+[Header]
+ProjectFileVersion = 1.1
+[General]
+Program name = EGO WPF
+Program version = 1.0.0.1
+Windows 2000 = 0
+Windows XP = 0
+Windows Server 2003 = 0
+Windows Vista = 0
+Windows Server 2008 = 0
+Windows 7 = 1
+Windows 8 = 1
+Windows 10 = 1
+Windows Server 2016 = 0
+DoNotCheckOS = 1
+Company name = EGO SOFT
+Website = https://github.com/EGOproject
+SFA = 1
+DFA = 1
+Comp = 1
+[Graphics]
+Wizard image = C:\Users\hp\Desktop\EGO WPF installer\RESOURCES\egosoft-logo.png
+Header image = C:\Users\hp\Desktop\EGO WPF installer\RESOURCES\android-chrome-192x192.png
+Show Label = 1
+VisualStylesEnabled = 1
+[Files]
+Installation path = <ProgramFiles>\<Company>\<AppName>\
+Autcip = 1
+[Uninstall]
+Vwau = 1
+Website = https://github.com/EGOproject
+Include uninstaller = 1
+Uninstaller filename = Uninstall EGO WPF
+UseCustomDisplayIcon = 0
+CustomDisplayIcon = <InstallPath>\C:\Users\hp\Desktop\EGO WPF installer\RESOURCES
+[Licence]
+Licence dialog = 1
+[Finish]
+Sart program = 1
+Reboot computer = 0
+Program = <InstallPath>\EGO WPF ~ EGO SOFT.exe
+ProgramArguments = 
+[Shortcuts]
+Allowtc = 1
+Shortcut path = <Company>\<AppName>\
+[Serialoptions]
+Allows = 1
+Number = 1000
+Mask = #####-#####-#####-#####
+[SplashScreen]
+Image = C:\Users\hp\Desktop\EGO WPF installer\RESOURCES\egosoft.png
+Sound = 
+Time = 10
+PlaySound = 0
+Allow = 1
+[Build]
+File = C:\Users\hp\Desktop\EGO WPF installer\EGO WPF V1.0.0.1 installer.exe
+SetupIconPath = C:\Users\hp\Desktop\EGO WPF installer\RESOURCES\ego logo.ico
+UninstallIconPath = C:\Users\hp\Desktop\EGO WPF installer\RESOURCES\ego logo.ico
+CompressionMethod = 0
+CompressionLevel = 2
+[Updater]
+Allow = 0
+1 = <AppName>
+2 = <AppVersion>
+3 = http://
+4 = http://
+5 = http://
+6 = 
+Language = 0
+RunProg = 
+RunProgs = 0
+Execdlls = 1
+[Languages]
+1
+2
+3
+[Files/Dirs]
+C:\Users\hp\Desktop\EGO WPF installer\EGO WPF ~ EGO SOFT.exe
+109 KB
+exe
+C:\Users\hp\Desktop\EGO WPF installer\RESOURCES\
+N/A
+[Folder]
+[Licence_Begin]
+33584
+{\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+\viewkind4\uc1\pard\ltrpar\cf0\fs20 EGO WPF ~ EGO SOFT END USER LICENSE AGREEMENT.\par
+-------------------------------------------\par
+PLEASE NOTE THAT THE TERMS OF THIS END USER LICENSE AGREEMENT SHALL GOVERN YOUR USE OF THE SOFTWARE, REGARDLESS OF ANY TERMS THAT MAY APPEAR DURING THE INSTALLATION OF THE SOFTWARE. \par
+IMPORTANT-READ CAREFULLY: BY DOWNLOADING, INSTALLING, OR USING THE SOFTWARE, YOU (THE INDIVIDUAL OR LEGAL ENTITY) AGREE TO BE BOUND BY THE TERMS OF THIS END USER LICENSE AGREEMENT (\ldblquote EULA\rdblquote ). IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, YOU MUST NOT DOWNLOAD, INSTALL, OR USE THE SOFTWARE, AND YOU MUST DELETE OR RETURN THE UNUSED SOFTWARE TO THE VENDOR FROM WHICH YOU ACQUIRED IT WITHIN THIRTY (30) DAYS AND REQUEST A REFUND OF THE LICENSE FEE, IF ANY, THAT YOU PAID FOR THE SOFTWARE.\par
+EVALUATION LICENSE. If You are licensing the Software for evaluation purposes, Your use of the Software is only permitted in a non-production environment and for the period limited by the License Key. Notwithstanding any other provision in this EULA, an Evaluation License of the Software is provided \ldblquote AS-IS\rdblquote  without indemnification, support or warranty of any kind, expressed or implied.\par
+1.\tab DEFINITIONS.\par
+1.1.\tab\ldblquote Affiliate\rdblquote  means, with respect to a party at a given time, an entity that then is directly or indirectly controlled by, is under common control with, or controls that party, and here \ldblquote control\rdblquote  means an ownership, voting or similar interest representing fifty percent (50%) or more of the total interests then outstanding of that entity.\par
+1.2.\tab\ldblquote Documentation\rdblquote  means that documentation that is generally provided to You by EGO WPF ~ EGO SOFT with the Software, as revised by EGO WPF ~ EGO SOFT from time to time, and which may include end user manuals, operation instructions, installation guides, release notes, and on-line help files regarding the use of the Software.\par
+1.3.\tab\ldblquote Guest Operating Systems\rdblquote  means instances of third-party operating systems licensed by You, installed in a Virtual Machine and run using the Software.\par
+1.4.\tab\ldblquote Intellectual Property Rights\rdblquote  means all worldwide intellectual property rights, including without limitation, copyrights, trademarks, service marks, trade secrets, know how, inventions, patents, patent applications, moral rights and all other proprietary rights, whether registered or unregistered. \par
+1.5.\tab\ldblquote License\rdblquote  means a license granted under Section 2.1 (General License Grant). \par
+1.6.\tab\ldblquote License Key\rdblquote  means a serial number that enables You to activate and use the Software.\par
+1.7.\tab\ldblquote License Term\rdblquote  means the duration of a License as specified in the Order.\par
+1.8.\tab\ldblquote License Type\rdblquote  means the type of License applicable to the Software, as more fully described in the Order.\par
+1.9.\tab\ldblquote Open Source Software\rdblquote  or \ldblquote OSS\rdblquote  means software components embedded in the Software and provided under separate license terms, which can be found either in the open_source_licenses.txt file (or similar file) provided within the Software or at https://github.com/EGOproject WPF ~ EGO SOFT.com/download/open_source.html. \par
+1.10.\tab\ldblquote Order\rdblquote  means a purchase order, enterprise license agreement, or other ordering document issued by You to EGO WPF ~ EGO SOFT or a EGO WPF ~ EGO SOFT authorized reseller that references and incorporates this EULA and is accepted by EGO WPF ~ EGO SOFT as set forth in Section 4 (Order).\par
+1.11.\tab\ldblquote Product Guide\rdblquote  means the current version of the EGO WPF ~ EGO SOFT Product Guide at the time of Your Order, copies of which are found at https://github.com/EGOproject WPF ~ EGO SOFT.com/download/eula.\par
+1.12.\tab\ldblquote Support Services Terms\rdblquote  means EGO WPF ~ EGO SOFT\rquote s then-current support policies, copies of which are posted at https://github.com/EGOproject WPF ~ EGO SOFT.com/support/policies.\par
+1.13.\tab\ldblquote Software\rdblquote  means the EGO WPF ~ EGO SOFT Tools and the EGO WPF ~ EGO SOFT computer programs listed on EGO WPF ~ EGO SOFT\rquote s commercial price list to which You acquire a license under an Order, together with any software code relating to the foregoing that is provided to You pursuant to a support and subscription service contract and that is not subject to a separate license agreement.\par
+1.14.\tab\ldblquote Territory\rdblquote  means the country or countries in which You have been invoiced; provided, however, that if You have been invoiced within any of the European Economic Area member states, You may deploy the corresponding Software throughout the European Economic Area. \par
+1.15.\tab\ldblquote Third Party Agent\rdblquote  means a third party delivering information technology services to You pursuant to a written contract with You.\par
+1.16.\tab\ldblquote Virtual Machine\rdblquote  means a software container that can run its own operating system and execute applications like a physical machine.\par
+1.17.\tab\ldblquote EGO WPF ~ EGO SOFT\rdblquote  means EGO WPF ~ EGO SOFT, Inc., a Delaware corporation, if You are purchasing Licenses or services for use in the United States and EGO WPF ~ EGO SOFT International Unlimited Company , a company organized and existing under the laws of Ireland, for all other purchases.\par
+1.18.\tab\ldblquote EGO WPF ~ EGO SOFT Tools\rdblquote  means the suite of utilities and drivers, Licensed by EGO WPF ~ EGO SOFT under the \ldblquote EGO WPF ~ EGO SOFT Tools\rdblquote  name, that can be installed in a Guest Operating System to enhance the performance and functionality of a Guest Operating System when running in a Virtual Machine.\par
+2.\tab LICENSE GRANT.\par
+2.1.\tab General License Grant. EGO WPF ~ EGO SOFT grants to You a non-exclusive, non-transferable (except as set forth in Section 12.1 (Transfers; Assignment)) license to use the Software and the Documentation during the period of the license and within the Territory, solely for Your internal business operations, and subject to the provisions of the Product Guide. Unless otherwise indicated in the Order, licenses granted to You will be perpetual, will be for use of object code only, and will commence on either delivery of the physical media or the date You are notified of availability for electronic download. \par
+2.2.\tab Third Party Agents. Under the License granted to You in Section 2.1 (General License Grant) above, You may permit Your Third Party Agents to access, use and/or operate the Software on Your behalf for the sole purpose of delivering services to You, provided that You will be fully responsible for Your Third Party Agents\rquote  compliance with terms and conditions of this EULA and any breach of this EULA by a Third Party Agent shall be deemed to be a breach by You. \par
+2.3.\tab Copying Permitted. You may copy the Software and Documentation as necessary to install and run the quantity of copies licensed, but otherwise for archival purposes only. \par
+2.4.\tab Benchmarking. You may use the Software to conduct internal performance testing and benchmarking studies. You may only publish or otherwise distribute the results of such studies to third parties as follows: (a) if with respect to EGO WPF ~ EGO SOFT\rquote s Workstation or Fusion products, only if You provide a copy of Your study to benchmark@EGO WPF ~ EGO SOFT.com prior to distribution; (b) if with respect to any other Software, only if EGO WPF ~ EGO SOFT has reviewed and approved of the methodology, assumptions and other parameters of the study (please contact EGO WPF ~ EGO SOFT at benchmark@EGO WPF ~ EGO SOFT.com to request such review and approval) prior to such publication and distribution. \par
+2.5.\tab EGO WPF ~ EGO SOFT Tools. You may distribute the EGO WPF ~ EGO SOFT Tools to third parties solely when installed in a Guest Operating System within a Virtual Machine. You are liable for compliance by those third parties with the terms and conditions of this EULA. \par
+2.6.\tab Open Source Software. Notwithstanding anything herein to the contrary, Open Source Software is licensed to You under such OSS\rquote s own applicable license terms, which can be found in the open_source_licenses.txt file, the Documentation or as applicable, the corresponding source files for the Software available at https://github.com/EGOproject WPF ~ EGO SOFT.com/download/open_source.html. These OSS license terms are consistent with the license granted in Section 2 (License Grant), and may contain additional rights benefiting You. The OSS license terms shall take precedence over this EULA to the extent that this EULA imposes greater restrictions on You than the applicable OSS license terms. To the extent the license for any Open Source Software requires EGO WPF ~ EGO SOFT to make available to You the corresponding source code and/or modifications (the "Source Files"), You may obtain a copy of the applicable Source Files from EGO WPF ~ EGO SOFT's website at https://github.com/EGOproject WPF ~ EGO SOFT.com/download/open_source.html or by sending a written request, with Your name and address to: EGO WPF ~ EGO SOFT, Inc., 3401 Hillview Avenue, Palo Alto, CA 94304, United States of America. All requests should clearly specify: Open Source Files Request, Attention: General Counsel. This offer to obtain a copy of the Source Files is valid for three years from the date You acquired this Software.\par
+3.\tab RESTRICTIONS; OWNERSHIP.\par
+3.1.\tab License Restrictions. Without EGO WPF ~ EGO SOFT\rquote s prior written consent, You must not, and must not allow any third party to: (a) use Software in an application services provider, service bureau, or similar capacity for third parties, except that You may use the Software to deliver hosted services to Your Affiliates; (b) disclose to any third party the results of any benchmarking testing or comparative or competitive analyses of EGO WPF ~ EGO SOFT\rquote s Software done by or on behalf of You, except as specified in Section 2.4 (Benchmarking); (c) make available Software in any form to anyone other than Your employees or contractors reasonably acceptable to EGO WPF ~ EGO SOFT and require access to use Software on behalf of You in a matter permitted by this EULA, except as specified in Section 2.2 (Third Party Agents); (d) transfer or sublicense Software or Documentation to an Affiliate or any third party, except as expressly permitted in Section 12.1 (Transfers; Assignment); (e) use Software in conflict with the terms and restrictions of the Software\rquote s licensing model and other requirements specified in Product Guide and/or EGO WPF ~ EGO SOFT quote; (f) except to the extent permitted by applicable mandatory law, modify, translate, enhance, or create derivative works from the Software, or reverse engineer, decompile, or otherwise attempt to derive source code from the Software, except as specified in Section 3.2 (Decompilation); (g) remove any copyright or other proprietary notices on or in any copies of Software; or (h) violate or circumvent any technological restrictions within the Software or specified in this EULA, such as via software or services. \par
+3.2.\tab Decompilation. Notwithstanding the foregoing, decompiling the Software is permitted to the extent the laws of the Territory give You the express right to do so to obtain information necessary to render the Software interoperable with other software; provided, however, You must first request such information from EGO WPF ~ EGO SOFT, provide all reasonably requested information to allow EGO WPF ~ EGO SOFT to assess Your claim, and EGO WPF ~ EGO SOFT may, in its discretion, either provide such interoperability information to You, impose reasonable conditions, including a reasonable fee, on such use of the Software, or offer to provide alternatives to ensure that EGO WPF ~ EGO SOFT\rquote s proprietary rights in the Software are protected and to reduce any adverse impact on EGO WPF ~ EGO SOFT\rquote s proprietary rights.\par
+3.3.\tab Ownership. The Software and Documentation, all copies and portions thereof, and all improvements, enhancements, modifications and derivative works thereof, and all Intellectual Property Rights therein, are and shall remain the sole and exclusive property of EGO WPF ~ EGO SOFT and its licensors. Your rights to use the Software and Documentation shall be limited to those expressly granted in this EULA and any applicable Order. No other rights with respect to the Software or any related Intellectual Property Rights are implied. You are not authorized to use (and shall not permit any third party to use) the Software, Documentation or any portion thereof except as expressly authorized by this EULA or the applicable Order. EGO WPF ~ EGO SOFT reserves all rights not expressly granted to You. EGO WPF ~ EGO SOFT does not transfer any ownership rights in any Software.\par
+3.4.\tab Guest Operating Systems. Certain Software allows Guest Operating Systems and application programs to run on a computer system. You acknowledge that You are responsible for obtaining and complying with any licenses necessary to operate any such third-party software.\par
+4.\tab ORDER. Your Order is subject to this EULA. No Orders are binding on EGO WPF ~ EGO SOFT until accepted by EGO WPF ~ EGO SOFT. Orders for Software are deemed to be accepted upon EGO WPF ~ EGO SOFT\rquote s delivery of the Software included in such Order. Orders issued to EGO WPF ~ EGO SOFT do not have to be signed to be valid and enforceable.\par
+5.\tab RECORDS AND AUDIT. During the License Term for Software and for two (2) years after its expiration or termination, You will maintain accurate records of Your use of the Software sufficient to show compliance with the terms of this EULA. During this period, EGO WPF ~ EGO SOFT will have the right to audit Your use of the Software to confirm compliance with the terms of this EULA. That audit is subject to reasonable notice by EGO WPF ~ EGO SOFT and will not unreasonably interfere with Your business activities. EGO WPF ~ EGO SOFT may conduct no more than one (1) audit in any twelve (12) month period, and only during normal business hours. You will reasonably cooperate with EGO WPF ~ EGO SOFT and any third party auditor and will, without prejudice to other rights of EGO WPF ~ EGO SOFT, address any non-compliance identified by the audit by promptly paying additional fees. You will promptly reimburse EGO WPF ~ EGO SOFT for all reasonable costs of the audit if the audit reveals either underpayment of more than five (5%) percent of the Software fees payable by You for the period audited, or that You have materially failed to maintain accurate records of Software use. \par
+6.\tab SUPPORT AND SUBSCRIPTION SERVICES. Except as expressly specified in the Product Guide, EGO WPF ~ EGO SOFT does not provide any support or subscription services for the Software under this EULA. You have no rights to any updates, upgrades or extensions or enhancements to the Software developed by EGO WPF ~ EGO SOFT unless you separately purchase EGO WPF ~ EGO SOFT support or subscription services. These support or subscription services are subject to the Support Services Terms.\par
+7.\tab WARRANTIES.\par
+7.1.\tab Software Warranty, Duration and Remedy. EGO WPF ~ EGO SOFT warrants to You that the Software will, for a period of ninety (90) days following notice of availability for electronic download or delivery (\ldblquote Warranty Period\rdblquote ), substantially conform to the applicable Documentation, provided that the Software: (a) has been properly installed and used at all times in accordance with the applicable Documentation; and (b) has not been modified or added to by persons other than EGO WPF ~ EGO SOFT or its authorized representative. EGO WPF ~ EGO SOFT will, at its own expense and as its sole obligation and Your exclusive remedy for any breach of this warranty, either replace that Software or correct any reproducible error in that Software reported to EGO WPF ~ EGO SOFT by You in writing during the Warranty Period. If EGO WPF ~ EGO SOFT determines that it is unable to correct the error or replace the Software, EGO WPF ~ EGO SOFT will refund to You the amount paid by You for that Software, in which case the License for that Software will terminate.\par
+7.2.\tab Software Disclaimer of Warranty. OTHER THAN THE WARRANTY ABOVE, AND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EGO WPF ~ EGO SOFT AND ITS SUPPLIERS MAKE NO OTHER EXPRESS WARRANTIES UNDER THIS EULA, AND DISCLAIM ALL IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT, AND ANY WARRANTY ARISING BY STATUTE, OPERATION OF LAW, COURSE OF DEALING OR PERFORMANCE, OR USAGE OF TRADE. EGO WPF ~ EGO SOFT AND ITS LICENSORS DO NOT WARRANT THAT THE SOFTWARE WILL OPERATE UNINTERRUPTED OR THAT IT WILL BE FREE FROM DEFECTS OR THAT IT WILL MEET YOUR REQUIREMENTS. \par
+8.\tab INTELLECTUAL PROPERTY INDEMNIFICATION. \par
+8.1.\tab Defense and Indemnification. Subject to the remainder of this Section 8 (Intellectual Property Indemnification), EGO WPF ~ EGO SOFT shall defend You against any third party claim that the Software infringes any patent, trademark or copyright of such third party, or misappropriates a trade secret (but only to the extent that the misappropriation is not a result of Your actions) under the laws of: (a) the United States and Canada; (b) the European Economic Area; (c) Australia; (d) New Zealand; (e) Japan; or (f) the People\rquote s Republic of China, to the extent that such countries are part of the Territory for the License (\ldblquote Infringement Claim\rdblquote ) and indemnify You from the resulting costs and damages finally awarded against You to such third party by a court of competent jurisdiction or agreed to in settlement. The foregoing obligations are applicable only if You: (i) promptly notify EGO WPF ~ EGO SOFT in writing of the Infringement Claim; (ii) allow EGO WPF ~ EGO SOFT sole control over the defense for the claim, any settlement negotiations and any related action challenging the validity of the allegedly infringed patent, trademark, or copyright; and (iii) reasonably cooperate in response to EGO WPF ~ EGO SOFT requests for assistance. You may not settle or compromise any Infringement Claim without the prior written consent of EGO WPF ~ EGO SOFT.\par
+8.2.\tab Remedies. If the alleged infringing Software become, or in EGO WPF ~ EGO SOFT\rquote s opinion be likely to become, the subject of an Infringement Claim, EGO WPF ~ EGO SOFT will, at EGO WPF ~ EGO SOFT\rquote s option and expense, do one of the following: (a) procure the rights necessary for You to make continued use of the affected Software; (b) replace or modify the affected Software to make it non-infringing; or (c) terminate the License to the affected Software and discontinue the related support services, and, upon Your certified deletion of the affected Software, refund: (i) the fees paid by You for the License to the affected Software, less straight-line depreciation over a three (3) year useful life beginning on the date such Software was delivered; and (ii) any pre-paid service fee attributable to related support services to be delivered after the date such service is stopped. Nothing in this Section 8.2 (Remedies) shall limit EGO WPF ~ EGO SOFT\rquote s obligation under Section 8.1 (Defense and Indemnification) to defend and indemnify You, provided that You replace the allegedly infringing Software upon EGO WPF ~ EGO SOFT\rquote s making alternate Software available to You and/or You discontinue using the allegedly infringing Software upon receiving EGO WPF ~ EGO SOFT\rquote s notice terminating the affected License.\par
+8.3.\tab Exclusions. Notwithstanding the foregoing, EGO WPF ~ EGO SOFT will have no obligation under this Section 8 (Intellectual Property Indemnification) or otherwise with respect to any claim based on: (a) a combination of Software with non-EGO WPF ~ EGO SOFT products (other than non-EGO WPF ~ EGO SOFT products that are listed on the Order and used in an unmodified form); (b) use for a purpose or in a manner for which the Software was not designed; (c) use of any older version of the Software when use of a newer EGO WPF ~ EGO SOFT version would have avoided the infringement; (d) any modification to the Software made without EGO WPF ~ EGO SOFT\rquote s express written approval; (e) any claim that relates to open source software or freeware technology or any derivatives or other adaptations thereof that is not embedded by EGO WPF ~ EGO SOFT into Software listed on EGO WPF ~ EGO SOFT\rquote s commercial price list; or (f) any Software provided on a no charge, beta or evaluation basis. THIS SECTION 8 (INTELLECTUAL PROPERTY INDEMNIFICATION) STATES YOUR SOLE AND EXCLUSIVE REMEDY AND EGO WPF ~ EGO SOFT\rquote S ENTIRE LIABILITY FOR ANY INFRINGEMENT CLAIMS OR ACTIONS. \par
+9.\tab LIMITATION OF LIABILITY. \par
+9.1.\tab Limitation of Liability. TO THE MAXIMUM EXTENT MANDATED BY LAW, IN NO EVENT WILL EGO WPF ~ EGO SOFT AND ITS LICENSORS BE LIABLE FOR ANY LOST PROFITS OR BUSINESS OPPORTUNITIES, LOSS OF USE, LOSS OF REVENUE, LOSS OF GOODWILL, BUSINESS INTERRUPTION, LOSS OF DATA, OR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES UNDER ANY THEORY OF LIABILITY, WHETHER BASED IN CONTRACT, TORT, NEGLIGENCE, PRODUCT LIABILITY, OR OTHERWISE. BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE PRECEDING LIMITATION MAY NOT APPLY TO YOU. EGO WPF ~ EGO SOFT\rquote S AND ITS LICENSORS\rquote  LIABILITY UNDER THIS EULA WILL NOT, IN ANY EVENT, REGARDLESS OF WHETHER THE CLAIM IS BASED IN CONTRACT, TORT, STRICT LIABILITY, OR OTHERWISE, EXCEED THE GREATER OF THE LICENSE FEES YOU PAID FOR THE SOFTWARE GIVING RISE TO THE CLAIM OR $5000. THE FOREGOING LIMITATIONS SHALL APPLY REGARDLESS OF WHETHER EGO WPF ~ EGO SOFT OR ITS LICENSORS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF WHETHER ANY REMEDY FAILS OF ITS ESSENTIAL PURPOSE. \par
+9.2.\tab Further Limitations. EGO WPF ~ EGO SOFT\rquote s licensors shall have no liability of any kind under this EULA and EGO WPF ~ EGO SOFT\rquote s liability with respect to any third party software embedded in the Software shall be subject to Section 9.1 (Limitation of Liability). You may not bring a claim under this EULA more than eighteen (18) months after the cause of action arises.\par
+10.\tab TERMINATION.\par
+10.1.\tab EULA Term. The term of this EULA begins on the notice of availability for electronic download or delivery of the Software and continues until this EULA is terminated in accordance with this Section 10.\par
+10.2.\tab Termination for Breach. EGO WPF ~ EGO SOFT may terminate this EULA effective immediately upon written notice to You if: (a) You fail to pay any portion of the fees under an applicable Order within ten (10) days after receiving written notice from EGO WPF ~ EGO SOFT that payment is past due; or (b) You breach any other provision of this EULA and fail to cure within thirty (30) days after receipt of EGO WPF ~ EGO SOFT\rquote s written notice thereof. \par
+10.3.\tab Termination for Insolvency. EGO WPF ~ EGO SOFT may terminate this EULA effective immediately upon written notice to You if You: (a) terminate or suspend your business; (b) become insolvent, admit in writing Your inability to pay Your debts as they mature, make an assignment for the benefit of creditors; or become subject to control of a trustee, receiver or similar authority; or (c) become subject to any bankruptcy or insolvency proceeding.\par
+10.4.\tab Effect of Termination. Upon EGO WPF ~ EGO SOFT\rquote s termination of this EULA: (a) all Licensed rights to all Software granted to You under this EULA will immediately cease; and (b) You must cease all use of all Software, and return or certify destruction of all Software and License Keys (including copies) to EGO WPF ~ EGO SOFT, and return, or if requested by EGO WPF ~ EGO SOFT, destroy, any related EGO WPF ~ EGO SOFT Confidential Information in Your possession or control and certify in writing to EGO WPF ~ EGO SOFT that You have fully complied with these requirements. Any provision will survive any termination or expiration if by its nature and context it is intended to survive, including Sections 1 (Definitions), 2.6 (Open Source Software), 3 (Restrictions; Ownership), 5 (Records and Audit), 7.2 (Software Disclaimer of Warranty), 9 (Limitation of Liability), 10 (Termination), 11 (Confidential Information) and 12 (General).\par
+11.\tab CONFIDENTIAL INFORMATION. \par
+11.1.\tab Definition. \ldblquote Confidential Information\rdblquote  means information or materials provided by one party (\ldblquote Discloser\rdblquote ) to the other party (\ldblquote Recipient\rdblquote ) which are in tangible form and labelled \ldblquote confidential\rdblquote  or the like, or, information which a reasonable person knew or should have known to be confidential. The following information shall be considered Confidential Information whether or not marked or identified as such: (a) License Keys; (b) information regarding EGO WPF ~ EGO SOFT\rquote s pricing, product roadmaps or strategic marketing plans; and (c) non-public materials relating to the Software.\par
+11.2.\tab Protection. Recipient may use Confidential Information of Discloser; (a) to exercise its rights and perform its obligations under this EULA; or (b) in connection with the parties\rquote  ongoing business relationship. Recipient will not use any Confidential Information of Discloser for any purpose not expressly permitted by this EULA, and will disclose the Confidential Information of Discloser only to the employees or contractors of Recipient who have a need to know such Confidential Information for purposes of this EULA and who are under a duty of confidentiality no less restrictive than Recipient\rquote s duty hereunder. Recipient will protect Confidential Information from unauthorized use, access, or disclosure in the same manner as Recipient protects its own confidential or proprietary information of a similar nature but with no less than reasonable care.\par
+11.3.\tab Exceptions. Recipient\rquote s obligations under Section 11.2 (Protection) with respect to any Confidential Information will terminate if Recipient can show by written records that such information: (a) was already known to Recipient at the time of disclosure by Discloser; (b) was disclosed to Recipient by a third party who had the right to make such disclosure without any confidentiality restrictions; (c) is, or through no fault of Recipient has become, generally available to the public; or (d) was independently developed by Recipient without access to, or use of, Discloser\rquote s Information. In addition, Recipient will be allowed to disclose Confidential Information to the extent that such disclosure is required by law or by the order of a court of similar judicial or administrative body, provided that Recipient notifies Discloser of such required disclosure promptly and in writing and cooperates with Discloser, at Discloser\rquote s request and expense, in any lawful action to contest or limit the scope of such required disclosure.\par
+11.4.\tab Data Privacy. You agree that EGO WPF ~ EGO SOFT may process technical and related information about Your use of the Software which may include internet protocol address, hardware identification, operating system, application software, peripheral hardware, and non-personally identifiable Software usage statistics to facilitate the provisioning of updates, support, invoicing or online services and may transfer such information to other companies in the EGO WPF ~ EGO SOFT worldwide group of companies from time to time. To the extent that this information constitutes personal data, EGO WPF ~ EGO SOFT shall be the controller of such personal data. To the extent that it acts as a controller, each party shall comply at all times with its obligations under applicable data protection legislation. \par
+12.\tab GENERAL.\par
+12.1.\tab Transfers; Assignment. Except to the extent transfer may not legally be restricted or as permitted by EGO WPF ~ EGO SOFT\rquote s transfer and assignment policies, in all cases following the process set forth at https://github.com/EGOproject WPF ~ EGO SOFT.com/support/policies/licensingpolicies.html, You will not assign this EULA, any Order, or any right or obligation herein or delegate any performance without EGO WPF ~ EGO SOFT\rquote s prior written consent, which consent will not be unreasonably withheld. Any other attempted assignment or transfer by You will be void. EGO WPF ~ EGO SOFT may use its Affiliates or other sufficiently qualified subcontractors to provide services to You, provided that EGO WPF ~ EGO SOFT remains responsible to You for the performance of the services.\par
+12.2.\tab Notices. Any notice delivered by EGO WPF ~ EGO SOFT to You under this EULA will be delivered via mail, email or fax. \par
+12.3.\tab Waiver. Failure to enforce a provision of this EULA will not constitute a waiver.\par
+12.4.\tab Severability. If any part of this EULA is held unenforceable, the validity of all remaining parts will not be affected.\par
+12.5.\tab Compliance with Laws; Export Control; Government Regulations. Each party shall comply with all laws applicable to the actions contemplated by this EULA. You acknowledge that the Software is of United States origin, is provided subject to the U.S. Export Administration Regulations, may be subject to the export control laws of the applicable territory, and that diversion contrary to applicable export control laws is prohibited. You represent that (1) you are not, and are\b  \b0 not acting on behalf of, (a) any person who is a citizen, national, or resident of, or who is controlled by the government of any country to which the United States has prohibited export transactions; or (b) any person or entity listed on the U.S. Treasury Department list of Specially Designated Nationals and Blocked Persons, or the U.S. Commerce Department Denied Persons List or Entity List; and (2) you will not permit the Software to be used for, any purposes prohibited by law, including, any prohibited development, design, manufacture or production of missiles or nuclear, chemical or biological weapons. The Software and accompanying documentation are deemed to be \ldblquote commercial computer software\rdblquote  and \ldblquote commercial computer software documentation\rdblquote , respectively, pursuant to DFARS Section 227.7202 and FAR Section 12.212(b), as applicable. Any use, modification, reproduction, release, performing, displaying or disclosing of the Software and documentation by or for the U.S. Government shall be governed solely by the terms and conditions of this EULA.\par
+12.6.\tab Construction. The headings of sections of this EULA are for convenience and are not to be used in interpreting this EULA. As used in this EULA, the word \lquote including\rquote  means \ldblquote including but not limited to\rdblquote .\par
+12.7.\tab Governing Law. This EULA is governed by the laws of the State of California, United States of America (excluding its conflict of law rules), and the federal laws of the United States. To the extent permitted by law, the state and federal courts located in Santa Clara County, California will be the exclusive jurisdiction for disputes arising out of or in connection with this EULA. The U.N. Convention on Contracts for the International Sale of Goods does not apply. \par
+12.8.\tab Third Party Rights. Other than as expressly set out in this EULA, this EULA does not create any rights for any person who is not a party to it, and no person who is not a party to this EULA may enforce any of its terms or rely on any exclusion or limitation contained in it. \par
+12.9.\tab Order of Precedence. In the event of conflict or inconsistency among the Product Guide, this EULA and the Order, the following order of precedence shall apply unless otherwise set forth in an enterprise license agreement: (a) the Product Guide, (b) this EULA and (c) the Order. With respect to any inconsistency between this EULA and an Order, the terms of this EULA shall supersede and control over any conflicting or additional terms and conditions of any purchase order, acknowledgement or confirmation or other document issued by You. \par
+12.10.\tab Entire Agreement. This EULA, including accepted Orders and any amendments hereto, and the Product Guide contain the entire agreement of the parties with respect to the subject matter of this EULA and supersede all previous or contemporaneous communications, representations, proposals, commitments, understandings and agreements, whether written or oral, between the parties regarding the subject matter hereof. This EULA may be amended only in writing signed by authorized representatives of both parties.\par
+12.11.\tab Contact Information. Please direct legal notices or other correspondence to EGO WPF ~ EGO SOFT, Inc., 3401 Hillview Avenue, Palo Alto, California 94304, United States of America, Attention: Legal Department. \par
+}
+ [Licence_End]
+[Registry]
+[Variables]
+[SCs]
+Desktop
+EGO WPF ~ EGO SOFT
+<InstallPath>\EGO WPF ~ EGO SOFT.exe
+
+
+0
+Startmenu
+EGO WPF ~ EGO SOFT
+<InstallPath>\EGO WPF ~ EGO SOFT.exe
+
+
+0
+[IFP_End]
+[Serials]
+IF1X4-KU57V-TBW9M-ZENI7
+JB9XF-7A32S-MM3KU-S27N3
+S51FK-KHOT7-LIE8P-VRX4M
+OR2ER-QECWP-QXWJT-C07O3
+2LUMO-5ZE9Q-X79Q3-VYKZ0
+ADFO0-U9X4R-RC4PM-KSWBI
+YW3CY-KHZT6-ASZL6-8DA1Q
+UBF6Q-J0KSM-MCSFM-N7SOP
+V6TVR-84IEB-ESZ8E-FJQT0
+PZH5J-P4TUA-DGE3I-DNJIS
+X0NQY-N1W3W-MR77X-N3OPA
+S07IL-6AIKU-IXZKK-7YQK5
+AEERB-7Q9V5-AUQZ6-NVOV2
+W7TQC-3HH19-B7TA3-O8HZ6
+4MO7J-UFYMQ-SYZA9-KNWNU
+2TZW2-SSTCQ-YVBRT-B2KY7
+S5L3O-JAUPX-FG359-OMOU1
+0FT6V-L5ETA-37RMQ-X52CP
+YGGZC-COT3X-BBA22-QJY2S
+EGFW4-LIZ6J-40X5U-WFNN7
+TZGB8-0SSZC-OZ23H-II4FV
+KR81L-1TRVG-TS86Q-SS366
+B5C5N-ZJPY0-UA5IG-GNH83
+A0ZG2-JKUWU-OGU1X-GWVYK
+H5VNQ-2D9BE-45SKT-QRSJJ
+NV5GY-ZEQEQ-DBXKY-5PLUT
+NPVNB-VXHZB-590SY-BJ9KO
+51Z5E-YEAX2-P2Q77-OVUTJ
+3KFKS-OKY8X-ZHVPX-CHETB
+3704G-8LN0Q-ZCNVK-69FOK
+51IN4-3S7L1-QWASG-JTVRF
+RBDVI-Q2Y51-YFJ4N-XRWJ5
+EFOGA-WB3A8-ZNKPG-GGD72
+U2A5K-6D5YJ-SMKNG-RH1FS
+O0H05-6A9U4-T6ORK-D4A18
+POXSM-RBHR0-9BM4C-357LV
+OR0HY-S8FC6-3RJU9-6DGXT
+LK8QK-FBPW2-PDJL5-OOHYH
+TOYVM-WPZFR-A6NZ2-EC8KK
+II655-ZA72E-KO52S-Q5IMD
+628Z2-0NBXC-FYFKV-XRVEJ
+MXZND-3BE2J-H3U4J-1T9LC
+I2JMA-V3646-37P5A-QQ29B
+FDR75-SYUKY-APZRA-QD25B
+KBC46-GTFIV-WQD4C-OA0K7
+M5IPT-QNN6V-B5WQK-YSE4V
+KIB62-MNDYG-ALLMS-B4H3V
+F6JBG-G6IY7-HG1K5-MORPT
+ADX3P-L9I6O-6OEY0-W7GRQ
+EJPBE-8TSGI-XY131-S7C02
+G0Z7X-XTQAK-6M1BX-A9GLJ
+6XYPZ-U7933-QPMEM-E4SV0
+RTSTZ-H7ODQ-1JQMN-WW7J8
+4T4E0-YZMYX-3ZB5G-MAOWC
+Z0SFI-8ILNN-PJIZ2-P8JUD
+71CQJ-VW02N-RQ2C3-A2993
+05LLQ-8OC4S-MCQRF-LEIZE
+42TVM-5K7LB-MVD7X-HK5EG
+U3TE0-RUNR3-YZ1N7-CTI0T
+K1X5F-EFE0N-JQS9Z-R12V8
+KPPL2-SS06F-A40FZ-24ZPG
+LQ7V7-V1N25-ULUAG-TWCZV
+XQ67Y-2PSVC-AVLZU-JCNMU
+MWBTB-THEUT-E6U7A-K8949
+R2KSQ-J6U2Z-3V5YH-I8UU9
+GDWOQ-M2RBD-CZ5KH-AH0SF
+UGM24-R27UY-9RN49-ORGCP
+F4F0F-9PA7E-CZYQ5-625W4
+VQZ3U-7PKIV-68JZM-KP2JW
+AMUGY-N0N53-S8Q9N-VHQX5
+3TKIL-OZLG0-FQAQO-Q0P80
+L7E6H-OF9W7-G9GL6-VUBMI
+C4088-55466-4BPWE-75431
+T2ICI-ETK2P-JU60Z-GQ161
+9RP07-N2507-AFDWO-IIQZE
+MJUQL-3K1TZ-UCNBP-RDNAL
+2GA6J-YKGWI-GLDVR-CBH6Z
+KPCCJ-UIHBG-PN206-Q4UAD
+122T0-AX08G-BFNY2-FWRNG
+E6H97-7WWFW-2AEM7-QULY0
+TP6QA-3NBSE-XZOYA-AX7H3
+M6MNX-D60UT-3M5KR-U90LA
+BST59-ID173-MC73D-43M4L
+EN9TQ-QEQ3E-XTAFB-FDTS0
+KOKEG-MI4OC-1GTJS-N1TXD
+A64P0-KRAAR-1978Y-KLIPE
+7OTJT-ROLVM-UYXI4-0W9E7
+CU2PO-MLPAS-1T56J-X2Q7H
+6XJ2F-OUR42-A0DOV-IR538
+CE8EN-N4DI0-5UB37-CQNU3
+58J3S-V9R7Q-QFIDT-TGSTI
+1HHCF-N85PR-F09KE-EHX1W
+CB9MW-5B96X-WN2JX-Z3RTI
+NZE18-7RL2Y-QO1A7-YCKBD
+E9M8C-6L5SA-APNAZ-KDWLA
+7QT0Z-LBUT8-BUK6C-2XM7T
+LVDFA-BJ36T-QQGPF-I7KGC
+ERQI9-A357Z-1TP9X-WLPSQ
+HWBDN-X6J82-FM1XC-Z2AHM
+TNZ6M-VEFW8-O54SI-LBVZ1
+CFR9P-X4IK0-TANMJ-YFJTU
+6QQA0-J1BE9-VR8PU-W1CON
+JR2MW-V1YTG-BVGJJ-VK39K
+VIO7Z-5YGZA-MRZL5-A1VCT
+NNJN3-7HVSB-0IPQO-UEMCE
+RPD9X-1OBIR-O1NZX-W9S8D
+F9GW7-814ZF-C7ALO-L3CQ6
+XA8Q3-ZGGBV-V1NGB-4YATW
+QMZA1-EIPB9-LACLS-3B02W
+68TG0-6RKJV-HGAPL-AUNPY
+X09E1-QBIXC-9GCAC-1037D
+XOEJG-WZZU1-33PX2-BZHOG
+1SGWP-4M3NO-3KX81-5YE60
+FQ57W-2EARY-X0LAM-X6I34
+8RLSI-22HP4-RBPMX-G7I5K
+XZGU1-58ITM-A6P83-58QMW
+PLFTQ-U8NTQ-O3S1V-0MQBR
+7AXXO-823FH-EYTOV-5CJCK
+61I82-RF216-X5SCC-HMRWB
+WQQQA-1UDC7-5JPCD-3F2AE
+4S5A3-P0BPS-GYHD0-POSWZ
+GE22F-2HNWT-ZYH5B-KI75W
+F3NC7-NYXF3-64W36-8ZWXC
+0BKIF-4HU69-2W7FS-OGWYP
+BM4UW-8UX4Z-6WRR1-R7QWD
+JYINP-9YGR6-P5S7P-IBYUG
+6SGZS-AMW8N-VTV5W-KWVL7
+GQGV3-SUM8S-AFMRW-DMFXT
+P49LM-FEMNG-127OB-LBK0V
+DAI39-9K90Y-4EBC1-EHUIE
+W69Y4-SUOIX-D1EU3-TUXFK
+DQFAW-I8NWY-KTFLU-AZ0TE
+HVOI3-UAH9M-UXRYB-9Z9IR
+DG3C1-GGVVG-KP6RW-5G91E
+CQB1M-EXO0F-LF3TK-C3GE2
+077NO-VSH5X-6894D-GC078
+NCIUI-X5X9G-N3MGP-7G3WL
+7YLNH-M099C-A7BD3-2WPA2
+L19TH-B6UTT-GX084-YTZ6Z
+WKR7E-DOJIA-6KBOH-92PAX
+8F15U-CMITD-Z7Z1S-23MGP
+HNU0U-ISJN8-P44I4-753DS
+3FQS7-A7JYA-HI49D-BOB4C
+D2ZQG-G5ESQ-QH6F9-9WVPS
+4DZTQ-O7M0M-IF59R-UJDDE
+JRQ3N-9NC3M-O7V5G-J4TDP
+5F3TP-KE8ZR-XIUER-19Z9R
+RPDC4-BDJHQ-EOXN1-JZNOV
+WAVCW-J6XO1-AQU72-8HBSL
+C1WHL-5MK39-7GZHK-2K71E
+3A2IW-A0B9F-VBV75-MV0RA
+PR5X1-N4S8T-W82GC-KX1BD
+HT1MA-1ILTR-IPLJP-I06Z5
+R9O6U-IJO85-8QSZ8-L5COC
+I02YT-V29B9-H1D1B-DO2LN
+1QCDI-T7NTA-USY82-M9ZSJ
+9DOKQ-ZW64Q-9X88T-117ZM
+AWNDV-F8SUS-NZTJ9-7U6C2
+UBUW0-SKVCE-CDI0O-43H4J
+J3QQK-XWQZV-VD1DB-0O9VY
+ENHMC-AO998-KPMM9-BQAMO
+66RG1-CCGLY-5FQSV-0TBLT
+YSYM3-YI2D9-0E0BF-B4R5X
+ZF4RH-Z8FX4-MCGG9-BMIOL
+VBUHQ-AHA6E-80QPI-GLT62
+15IYE-MM9HU-B5E10-0EHMA
+R6HX1-OFXIN-S6QVV-Y2OCE
+5R1VH-5RN3Q-U0OJM-HS76G
+URP8O-709D6-YJ3VC-Z2X3V
+Y1VA0-ZE41A-TM75J-XTLB7
+PKUUO-ESCLX-D5OWF-3HK0X
+SF0D1-CJ2XN-Y8EM4-M46E6
+C8OXC-RLVID-UWRF9-FUQR5
+QF89T-HXHSP-YE2S5-UJ8L8
+9A5B0-E21RG-M0P4U-3SBZ0
+Q8YNX-BXBCS-D0BUM-C68XL
+GH5W2-Y1D87-2YGN9-DTFM3
+3PP1F-HB815-23SUG-2SQIM
+L0E3N-QF70F-0JOE6-SCFY7
+NO4D4-7TJOA-O9D9Q-YQTQ8
+Y5IY3-OT0Y2-INSU2-0OQA6
+HF2CQ-7Z4C0-R90AW-M0G6Z
+Q0TLB-VMFTK-H5ZJT-A224N
+FJDTS-BEYV4-JILCR-WNUCY
+55G0F-ZUMFY-HDX2Q-QVR6Z
+561SE-HA66G-8MX9A-QOG5X
+MUUXS-HV4JR-AUB8D-T5VAV
+UCEOB-GTY91-VWK4M-AD3XM
+D9IDG-25WY6-G31UX-157N6
+98E7S-NX1FI-LDR1H-596EB
+9GQBN-VRU6Y-UAG78-N2WTM
+A12JT-RV7Y4-CDOXN-05G0X
+GZBA0-IVXLD-XNIZ9-E1NRB
+T8J3K-LLPJX-D8TW1-TC4WI
+5L68J-W1BXE-C54AN-MRKLK
+U4T9A-URIUE-PGZX8-9JTG7
+VO2F8-2H2IV-86DER-LXEO2
+ZKBU9-VIAAV-FE3Q5-KGA07
+FL2KS-VG598-RFCYP-2OZQE
+CBPYU-YLW2Z-5RVL0-HYWH1
+FUD3O-WX2VN-D1NBV-R0N07
+QO3JQ-GT1R9-YKQ8V-3FDPT
+SN6F0-0TQYZ-LCBEQ-3V422
+NKH6S-TQIO3-BIVQN-2L0D8
+IB8RG-JFHT5-RWVW3-F5GVF
+YIVYA-6MMRJ-00YHH-UXSMN
+A2WUJ-3A6CD-AL5P2-8AHJJ
+EH3RX-NP821-AXDWC-KBBVE
+E5B28-J5ESJ-NY4K2-CMQU1
+J62H1-T7YVB-B7V9W-UBLAH
+AEGQK-0S99M-8W8UD-6Q7SL
+H1AXC-BHQGG-2I73M-9JIKH
+LNQ7K-9Q3NK-4TOKO-0U5ME
+GLU6B-LICMZ-X2SPF-REA11
+8UB3K-GMF0O-YFCRO-USVCU
+BSB1W-8ZX8W-ZPWYG-Q0DLE
+7FATH-TFWBN-6DZ5A-9TUL5
+8C4MQ-2L6QK-3KZ03-YB5J5
+VANJM-CVUSZ-O9HSP-ZMNNS
+8J93C-5XJLH-5UWF6-XJANQ
+G7TGY-8INS5-W4QOB-W5DWY
+SUBC7-74FSV-VXQNA-UQ4FI
+4Q6M9-KHTYT-S8PJ0-G73YL
+PAF9N-T0DKL-8K51P-4LOU7
+IYKNA-800EY-1GTD6-H71Z2
+FE47Q-QGEYT-VVUGX-I72D5
+9HR7E-54VJ0-ZEOLN-GOY8S
+82301-CX5CM-O2AF4-YN4GZ
+V68EL-LJNR0-B2G9P-ATCER
+EJAAJ-K5LOL-68KF7-A9MS8
+RP6CZ-FG5FX-V5AT8-ZVV0F
+TUHY5-IMAWM-CRBLW-OI7KI
+3A8FV-E8RHF-7AKAJ-JAZMD
+R3R8V-SYPDT-5S9AA-YXL19
+E67GN-86FC4-GPVHH-X0RX1
+565EU-AWH31-ISNEL-HMDIM
+G01R3-FNIQ9-OAGV2-9Z7DZ
+XL54S-BX4F6-3FN4U-V28GT
+YC00S-A3KWF-ITF03-CJVVJ
+8P0FE-YEW6R-66NEG-VR08I
+LMGNW-7639M-8YVAM-B12SW
+7B3J2-UE21B-R9F1G-5LAYS
+RMNNR-26YJA-UCXTS-ZH6XL
+87IAL-U7EMK-2FHN6-F5BNX
+YQ1JZ-ME7K6-D0XH5-6NU3H
+VC58P-1MSCO-9MS3A-TZIE9
+WB1GH-P5DBQ-4I31J-A19WF
+AREYP-U8MXQ-ZCH47-MYSFG
+HXTS9-VRAON-Z51YF-4O2ZM
+25EJT-YRE1Y-YMF0H-NC8FV
+Z4CN9-1STKT-EE6ON-OYE6U
+EMX5F-J344T-AHZ0H-M5CGL
+OJVPN-EZ7TI-140ME-R2AQX
+UMWHO-9O2VO-IWREF-HQZ1Z
+EJ2LE-ZVZXF-SOBVC-ERRZA
+ZJ386-CP9QF-R6G1G-HYPDZ
+UGSO1-HWT0T-IE321-LBS5I
+LEWDX-Y7HY4-HTRJX-TEHWQ
+DF3JP-DJYBX-7W2GT-LDS95
+CVE2L-KPCPJ-36VHL-0114U
+AKMO0-DEQOW-FVH88-9YSGP
+TJE2K-UH8I4-2YJPG-LQZOW
+5XXWO-ATH7F-LNNFI-DV27C
+N5DAH-I74WF-FJ3MN-SKZTM
+G6EGK-RTK1P-01C62-EBKQ2
+8XW0C-JWWCL-486KV-4CP5Q
+DSJ6H-MIA3I-0FXSW-1G1BI
+KH963-Z7FWG-3TNOQ-SSGWI
+AXZ2H-N9Y03-8N56F-WFB97
+540FT-B0DMZ-LBWHS-II9JQ
+L3LWX-S8KT1-IDCWB-QKGAK
+0PAHN-DAHAY-F8D19-770QM
+O5ZSA-95LVW-ESETE-5C6J7
+HH7RY-96JIT-X11F1-61TT5
+Y3EO1-XZ3FP-YMB1G-Y123C
+MVMP6-Z1OK7-69IH1-YVYZK
+SCM07-FWYCV-WN9SW-AN6D2
+8YSK3-6AXJW-JI4AN-PPGMB
+M7AK8-Q3Z0Z-3QK2C-5FUPW
+Y724I-MZIH2-UIGRB-E1CC3
+9QRI5-MXS19-MWRZZ-ZBR8A
+BGR35-LA7ZJ-N6MKF-MH04U
+0616T-18UED-XHGES-AQ2H3
+HNMXH-G3DBY-HJOMB-9IJSY
+MYJ86-FF4GO-P0OAM-IA2TO
+R8PD3-EI58B-S9NE1-0DR7Z
+5NAEQ-DAMQK-1ZUOH-XDX4I
+K3XXM-1R4P6-QZC54-3PAQT
+UP47P-8EX24-UFZ1K-LT3Q4
+IMMGS-EAFBC-TI174-LBXQZ
+444ZT-ZY6WU-K3UFM-ZTJ86
+E6OR8-TH11A-SM2Z9-R371G
+AGBWE-AK3CK-YQHZY-MM7X9
+QKV5C-NN65V-URZOP-PXVWF
+DJAYI-EOJ71-DIUHM-YE2YC
+KSDEH-ERZMP-1WUOD-Z1O38
+J9Y2C-J4D4I-RCWD0-88VKV
+U5NLB-6HW3S-8Q7DK-9A2WR
+EDVHX-JGI85-4TMZV-G7WJL
+VOP0W-O1Z3F-D8MPO-CFOP0
+O29I5-JQ09I-3RQ8B-Z43J7
+VU474-J5YBC-37UMN-VZ21T
+844KO-V0UXK-3N1SC-AA8YC
+CY6L3-LGRZM-5W6BD-3RP8R
+T2BRI-R2SAE-2Y5L0-PA7P3
+QP8IA-QO49H-VXLSY-0R6VA
+KMFFG-55SGU-LGE8Z-W41QO
+TYEXO-OEUU8-QP9XH-A7L0Z
+QRYPC-383LA-6XRDL-C8N2H
+5RVZJ-3O88J-9S0F8-BUO9C
+P566K-TZQHK-8M1LZ-L3KQ0
+KM9VG-TMFA9-XN79A-OBO1Z
+WFQI3-ZQVVU-8RXNA-XOHHV
+8JKFY-LR90V-TTPWM-RAQAN
+I6K0G-KR5HR-CGCE7-EVEMW
+TEQVA-XC3RV-2NGVA-7HNSM
+2YLJU-2NNXO-JXWXW-3S0Q0
+EDWG9-DU4BW-4GJ86-L9STT
+1JG0S-K38OO-3Y2BM-2TOF9
+U8W2Z-J65LO-HMGBV-XLQRS
+Z8WMU-B0BGG-9FAUH-HICMW
+21C1K-G2D21-5O28B-QTGML
+OEQWJ-Z0R4L-ZM5LI-54ZYS
+0IPLL-KS5UI-UD9LN-IK9DM
+CWRBS-5PHYH-OLZSL-VITXW
+QZKA9-SH7L3-PNN24-JB15I
+BGEPL-F0MSR-AMBJY-E4Z76
+0MG4U-AQ309-J062E-JDW2Y
+RLLZD-QCGR4-6VE74-Y3FCS
+ZB6LE-E8TKS-MG4PH-5OQLV
+R4IHA-D9VR8-KU348-EPSJM
+UREYQ-Z3KU1-NMJSF-QUMEK
+1P2GN-9OJ4R-KP8R5-I3EQ7
+DVKMM-P52WU-HZES9-PK7LY
+DSMK6-M8S3S-ZVQBD-099SP
+Y7WF4-CP29S-O6QMA-20W1F
+16180-RYO06-13UXA-P0XG6
+8FO01-E867D-FQTZ4-30G4F
+JYS42-KWOL9-U7Q2Q-VFDOG
+85DI8-MRDSQ-3QLKA-FMWYW
+5YDYM-MHZHN-YPC7O-DJVP1
+KH1AA-OCLEW-8C3IO-C87PU
+1V241-EY32F-EFWS9-KQUNF
+NHTHX-4UME7-5KC0Z-LPK7P
+A382F-C4NWL-M4MIA-UN87A
+XD3O1-W0BN1-BC16B-C6AVD
+VIYPV-44XFI-46JGQ-JM9MX
+JXXBY-WTJLW-VNR9D-LYU28
+RPBMY-24ADR-K4I9Z-ZBV5I
+G9X58-8ZR14-NMBQJ-Q3IL9
+6J84X-F17KB-NHBY7-ZSVAZ
+Y02RR-IXG2M-IG84J-VFE9S
+5MCFK-L7IR2-GIAED-R04AC
+GNT7Y-4EPHE-1QCFN-G5GH3
+KFL7S-8AB3L-NIOM7-6GJQC
+SQQ44-HW0JK-Y3TXU-Q9LM8
+PUUOD-DT9S0-7ARIG-1D4OB
+ODN0D-HLWRG-X2VO3-5Q7V7
+G03PY-AUQUF-51NG7-SJO9U
+UIX0K-43ODR-C3V6G-19GNA
+IDVCE-1XVXU-ALCEK-IGXAD
+GDI4W-43OPO-G4IOW-D3I03
+6LKGO-G6M3Y-7YVSU-L34K6
+KZA9Q-RP8V4-3EBR7-ZG9BK
+10D1Z-Q4B3X-5KV7Z-UUKXI
+C8OCI-6UMLO-5DVH0-V6I74
+ZA8EV-YCG7A-9BEHA-PM04K
+VTRDH-KEOT7-8XIC8-8Z1RC
+9J3G1-HPWA1-277AJ-XN60A
+0MDHC-8NS3O-Q9WKB-92F6B
+UETUP-POF7V-0D76H-3DXMN
+ZZXEJ-FA8Q7-JVZRT-HWRKU
+JQLHR-AZ95J-OFZML-W1JOI
+EEZS8-4ULEY-SQM2T-TL2NP
+AUSIK-M0BZM-R4SQ1-TVM5D
+8L7FE-LJQ4D-BNXRM-JBBVZ
+K56DZ-CUI9N-WUJBF-QBAUU
+JFCAE-LUR8Q-4VN9P-WMBEF
+HEXNR-VXGQO-B882L-VM0U5
+2MUI4-ZCSPA-26AMX-UUC55
+N76KS-7X0IR-OOS9C-I12C0
+O7XFI-44E5O-3ECFC-LH75U
+M64MQ-6JV41-5BEUH-QKBIG
+SO8XW-8GLXV-ANATE-HA3H9
+UWYF5-YLC1E-ECJNM-GPZ91
+TS8LE-73AL4-1NSSB-7TNOF
+AB5AU-H1GCF-AC5XM-JWFQJ
+FQRGE-ERAHR-U9N85-JX8OB
+U8LT5-Y4AXE-SYXPP-RNRC1
+6K46M-2TN9B-1WY7T-1V06J
+N4VF6-THWZA-DFK3M-EFSG1
+237RY-J93UH-TVQI6-S8BBC
+WA0DN-ASY65-A5HI5-851FV
+YHJG6-IJD1U-PNTMG-J6N8I
+V1DJV-WD15D-FG9EY-KWX90
+EH2EY-3QJ6W-7M53E-JFXRU
+445GL-2IO75-MY1N1-TJVXZ
+94KCM-EVA7A-IDGCX-WDVBR
+7I7T8-X8PZG-MGKGD-XW72G
+9EQMT-8E7I5-3XNSH-Y2P0W
+XKDS7-V5XDZ-ER9VS-06M87
+GPXBS-V52AU-FQ12H-OSEC4
+8ND44-MFEWD-X4PDJ-J0HCR
+1KC86-Q5T8K-36DMY-LJIMH
+Q36BI-XXTFG-OJP5U-C246F
+1DUJS-E2O82-4Y1PM-991Y8
+AYCR6-38MDZ-MANWD-T5KCI
+JJONW-FO0J7-OLBKD-3XVQ1
+ZVVKA-GU0DX-PU0F4-XTADH
+4M5VK-RVIF9-N585A-87LJR
+Z2GQS-2VB58-ZRPUE-JLOVI
+2DGJ4-LZ6UU-420KI-ESVOZ
+5Q638-YWYQW-O34AR-UCJVJ
+ASHK5-H9558-IDNFI-2273I
+3S10N-892N5-LSS9P-XFR73
+ZBJJK-98W7F-AZ4EY-AIDH4
+KVZJH-ED8HS-533MT-GE4CO
+PTYAV-XLKOI-K22T9-G8FK9
+70VU5-7MIBG-Q3OAE-SDNQL
+JTFK2-IZ2NQ-OSJSA-0GOSX
+J9HLO-42C6K-PVPFL-C9S3Z
+HWNMM-ZC43U-DFQI9-2I53T
+W6HN1-8HQV6-XRRFE-FBK37
+TISF5-QLG3H-P99W6-QSN38
+LZA3X-IK9M4-SGNIY-E6VPB
+AQTQ8-5BH5N-F9SRQ-BNTKL
+51E6C-E05H1-D9H9B-BHHPA
+CJSXJ-90CDZ-G25GC-5EQYO
+RP4EF-VZWMG-TBPRW-RFWGQ
+OEFPG-5K3OU-Z6DNF-1XT2E
+Z65GO-X8HDN-ZZ4CF-31LRB
+45HPS-PHTXZ-HU8NK-XA0BC
+ZFNCC-KG087-ZAOKP-CLS36
+AJRJP-S4PRT-IHRC3-8UM4K
+YZ0QJ-A3DJI-XJSAW-E74QK
+MAZ1O-NZJ6N-QS2VJ-8JK9X
+NT2Z8-04UDL-VXAK6-I44VG
+UQMPI-BBX0Y-1EKDK-M7KO3
+3OS0D-JRZ1Y-KLDOL-LLB10
+X7NDY-WWOHY-0BECQ-TF3K1
+TTM9N-L8ARW-BLQ79-3I2T4
+WNAI2-76TMV-CGJX4-JWABH
+K7XR0-LU4V1-T0ZD7-GGI17
+2XPJG-4WJGV-27F2V-5KAYU
+0D433-OU0EL-300IZ-LURBJ
+R2D77-ULHK4-NQ95V-GUO6Q
+5DY0D-1UUFN-U469U-KFF0K
+EBC1F-MQ0KN-FJ4L9-DJ8HA
+GCB6E-EB1Y8-IQ8J0-BHPD0
+BOARX-XT3JT-03W8X-JHMLB
+C63UL-U6CJM-30I9T-OU8LH
+KX9XH-EHD8Y-CFD3X-UFEQD
+PVRP3-524RB-IWHLC-OJQA9
+68C8Z-39QN7-KIV2Y-H7F50
+BXP3Z-HKJ3F-B2SHK-YB54O
+KEFXH-06HCV-L54Q1-550S7
+O80GV-JSCIC-4WY7V-G20T2
+HRBYE-PWMS1-9FT7U-NSNFK
+9VTF5-SDYDY-8XFO9-ZXFAA
+XNUJ6-O2IZB-VN2YK-URY4I
+QOYKK-FB97A-YDGB1-GL24C
+JHU7H-J7ETP-VEUMA-IMEP2
+SETBM-B2RL9-1QDNV-HCB2V
+VQIPA-JMNS2-0EHRC-N2IVK
+OORI3-7032I-F02P9-IG3OW
+YZRUX-P2QLR-VKDC8-QBBCX
+6PE7U-OHC1D-GNQUB-5DWP3
+PIT4Q-5RYBE-XWZZU-MB0SU
+H9PY5-RWF1X-64W5B-DLQHI
+ESSNK-4IXFM-YOQ4S-MNOPA
+5A8Z1-76ZPS-0OUPF-66WYZ
+KSZ7X-6DRAN-WH7DZ-C83Y6
+9KFRV-3VAQN-YQ27U-MP0ZY
+I47YH-TT76N-S3UFQ-VK9FI
+LBYOJ-LRPJ2-VL55A-JQ9G8
+1UPGS-W8A0J-BIDTC-WFL4D
+VS6ZP-BRPL9-EBOYU-UY0E9
+JAH1W-NJ3D4-CIML7-6264M
+NKEBU-XYH9C-M1OZ1-959E7
+JAWVP-MBZ9A-URKQ7-IZND1
+RK6U9-V1476-H2HS4-BW0NA
+9NM4M-SH82E-5L3O1-HAW2R
+X534E-I5D3S-YJT8V-N7FGV
+0W3GF-PYAYA-PSBNT-JEGR9
+TF2JE-Q0PJR-IX3UO-XW33F
+41XJQ-1FZXH-YU4IQ-1RYOT
+65XLP-XGKYB-VU6AK-EROWZ
+GV5X2-9C5JJ-ZP9G3-TQ8R0
+YL3L5-5NRIQ-B3NTD-P9818
+2YFQG-HXEWQ-7WFIT-QZSES
+IJLQQ-ZGLX3-HONDP-URD2B
+61OD9-6LLTI-U3W5L-VCOTV
+SLG24-8IH9U-M2FDC-C7YHG
+20PSC-CKDWN-INLL6-Q5M0M
+RPC47-F7KGV-22QCU-YP0ZE
+STXIK-20NW0-8AGKS-WME3S
+G34BE-DS67W-G2AFP-YUW4N
+73J30-U6YOD-RWXKM-2LSVR
+ZWMSZ-4IF4L-2A5D8-U01OZ
+UBJJB-7DAN2-0AUOU-B0UX0
+SZOLU-7IV7E-RFWL5-1N9B3
+OS9P0-1PNTQ-JU1VR-QX9S2
+RPW8Z-3VS6W-CLQ7L-B4IUA
+YF99I-XMEHR-38XTF-SLFJ7
+5JZCV-ZWG0P-787W2-ZFGFP
+IFP12-52YBX-XIQX5-7LXVW
+KIEI8-TGYCN-O5AYA-VWKB4
+5SXU0-N3UX5-GBJYX-ARGAT
+SU9SA-7C6OM-2F3GX-6G2HX
+MRYOI-SAY3X-9H6EK-B04I6
+4DJ4H-BTWYJ-PFE0B-2U1C9
+XJ9MF-SXPQC-STNO9-CIRXM
+8JGX3-YT3BO-QD8E6-EH5XW
+303AT-L2KVM-UNLFR-F8UWN
+L3LNH-E8J3M-GXG6J-2IE41
+B9T4O-UQM14-ZSOBX-VDXPQ
+R6U74-EWJV7-GD4YR-W5SOS
+M0Q4A-AT5ZN-4QUBQ-QKFWC
+Z3MRN-CENVS-Z2UM6-E0F2P
+MBBBP-B592Z-B7N5L-O8DM6
+38P6M-9OO0A-LWHZL-A05TF
+3PBD0-Z9RGR-8250F-NSY70
+EJK63-9HJ59-UHVWF-KU05L
+ZR63J-0H0X7-WJUZX-0NJ6Y
+723N6-ML381-5OAMG-3QZ00
+BCMBU-R70QT-9RQCO-JR20X
+YK0ZA-R0YAB-B82J8-20XPS
+23C0M-AMA45-07FZN-TWH9B
+WF840-47PIT-P3PYZ-OTBA9
+RD4OW-JAS28-2RFG9-CM4TF
+3KU0R-I4QD1-Q8I00-6N7MW
+KFD5M-14A3F-EPR7J-64SDK
+XZ7FT-60B97-QXC1B-FBFR9
+VTBRN-3A7JH-TBG6F-TS5NS
+JVD62-2XVN6-GLJZV-MDBJP
+SWXAD-3V3XR-A8Y9V-53GKC
+0RIWX-42ATE-OHOYZ-3YLR1
+ZUIT2-521PS-NEXGH-0VWQO
+01YEJ-AKMAU-0DBRB-TQSDF
+DMNEJ-E0RAY-LNOAU-FR366
+H8T9L-WMEL9-51COM-QR04G
+PV50H-ARNEB-EGJK5-A81L7
+4BLAB-3D6L0-17GHK-OSYRZ
+VM7A6-NYXX5-0VE80-374CJ
+PQWUZ-GT1OF-PD61B-X3O3L
+FCZF9-J6F27-2KS71-TV63T
+QQMW2-NYEFW-Y5Q7D-WAIBZ
+O2UCV-LQZ72-QOVAH-9G10S
+CA25X-7X650-D3XNP-H1VDL
+DQQI4-O7IZK-18X5U-9JZTL
+U2T3K-KZYJ9-RJNJX-EXM8X
+XYG3J-SLZLG-LQLAR-MGO3Y
+HXJNM-ZOQ4Q-7DESS-HFZ7L
+O7OXE-79DYC-WKMT6-VSHS9
+NYXTG-BAZJO-DD3WM-8WQWL
+IEHJH-V1OES-6FSIK-Y661R
+GHIAY-1BZ98-9OTIX-T7LD0
+F73QP-HUD6D-37EXI-4E6VP
+RDAD5-89O60-CWHT9-S26SN
+N76L6-TV80J-KE9K4-0OJZN
+JH2IS-ALFPN-45EHF-GJJBB
+VYG5E-GAYZF-5G838-A1NYH
+DC0XF-GMS0B-GMR1V-WWZJN
+7LLEI-SK09T-UTEZC-HVONA
+134TL-00PRS-YRQPN-6CZHO
+5N1V6-DTM2F-88R5N-K71GI
+MW8J2-LU8K3-WNRHI-YC9T4
+4UOBR-UWUAE-3AT6Z-NJVUT
+MG5BL-MUMJE-79UHK-OHAG3
+DFIBM-HQUYR-CI933-6IZAG
+MW783-C67CX-NL1L0-HUVII
+9JOK3-VWI0M-QQO21-6WTRK
+VV2WL-TLSAF-VKK7X-BJ7U8
+TRQK2-6N2LT-I46OQ-8YSPR
+Z97LN-6QH06-R64KK-3JRRQ
+0YH15-T9Y1M-YCIX6-DAJJ1
+O7H3U-IC8RO-YTT7I-U6M8W
+W2SQX-E08FF-F024L-2R3K4
+0FZ2C-07X8J-A0VBR-IP98O
+B41KA-89SZZ-8GH23-WY7FW
+A5OTU-2SZKT-JOHMU-OJMWK
+ZSCWG-QJU06-GUKRG-F50SC
+9RLD2-JU8AZ-MLXIQ-DN4AM
+3XJRW-SBNW1-2TL4S-BU0TJ
+YOYAD-U8XXC-6AHJ1-MHU54
+KJEJU-XL0QX-8MY06-HKJ5D
+WVRAG-OHM69-3OG5Y-OIGVH
+X77JK-45XPU-9PAWR-8SHYI
+2CX7E-DQNRI-18VLO-8E8RW
+21S4X-STGPS-QT2V8-RAX3Y
+BPEC7-6VNAN-RORRG-R33G6
+AWZGU-0AWV6-1PKRD-WBSYO
+MDP2K-QT1OW-VMRGI-CQH4L
+Z7VQ8-GWC7I-SQBPA-ME081
+AR3ZB-NTWWR-AMJ02-DW7S0
+CKOI0-EIVBR-OKMSE-BQZVQ
+J1PO7-DLU0M-LSZ0K-H0ASI
+UQD3E-VCPUD-80H6G-8ACVQ
+NARUI-OWN2Y-OSII2-10BLF
+CVL5J-8GHG9-NM9ZC-WDFFP
+NK79S-M2E2I-3BS0M-UCC9P
+YSC32-QHLI7-2PVVP-TMOZ3
+9T7CA-XQ8ZE-GCJME-LZN0V
+7K3O6-JT5G5-OZ6H6-11J1R
+0N1HA-7SU2J-MVFKT-L5J88
+PYFGO-2UA4Y-4TLNU-XH8CB
+KVYON-Z7ZGD-D8IEP-7V1ZJ
+AR9XB-75QFU-GVZXW-7NQIX
+ID4ZJ-OHB84-9OOTN-396FP
+4SC7M-RLZEF-SOZXR-225G2
+67GP9-RUZJ0-CBGF1-V9FU9
+EBNBE-QTCNZ-YTQD8-YK3PB
+HHJ65-TU8DF-54RBO-G5YVI
+RA632-5GKIE-T5UXH-2UY7M
+YRH2W-2HQJY-1TGPG-VO6WQ
+YFI66-UKPYW-9OJH6-3OE1U
+HV839-EX71O-ZYGH6-FAK49
+Y4OX9-WFAX7-Y53WH-B5FJ1
+WOZ8P-JHK0V-P9DBJ-TZRMU
+1CCBJ-NVTWN-RDYVM-Y1BGF
+P2WWF-7YR7T-5LKEL-C368X
+6YWJT-G3WY3-YEB1W-RKCEX
+H9I2B-USS0H-RKBKU-1HYEE
+S4L9O-PCO62-HKTJF-WBTUQ
+0Y92G-41JDE-LFZAT-8W5H2
+CNOWZ-1QO29-WWRGG-71CDQ
+K83QM-3798J-RDNWB-EXD1Y
+G3A64-N261O-NQD0R-QUG2T
+ULFL3-A3K2F-C5PR5-UGWPY
+BNE56-34SAY-EPGDU-1EDY4
+KWVGJ-3SD9X-RCYZN-01V1D
+ZVMVI-G9NMD-364LP-CI5R5
+MNGL1-04TB5-QYVOY-E3BGT
+6JAET-AIOPU-Q7ARH-BEK8X
+SICUQ-OEJ79-ND97Y-LA9OU
+41A46-LVJBP-QP6PA-ALFGI
+BQIQN-8NRGN-49O7I-QI3P3
+SD2K8-C8JS8-GEGUF-RZJMP
+03861-L7BDN-3K9I9-G7CCE
+14VUU-UHKAD-KFB2P-4WAJ8
+QJZGJ-2SC31-SMP48-H9XK2
+O0KFM-F1G8C-2AZQY-DADWS
+6JLJC-BH9YL-VADQC-YW8T1
+70QP2-PIV27-KTZ4G-OLI29
+WDLPV-9EWS0-XH60P-Q027N
+S09HZ-M49ZZ-JQIAW-S8NOS
+XB38D-9VFTB-BC4R0-IF2KU
+AYXMO-V9J36-SN4IV-EKRXO
+R8R5V-TIBDJ-V1H1G-31PLD
+QULPS-WPMYB-V20U2-N1GE2
+B8B4W-0AIGP-OSSBD-ECW1M
+FE4B2-CDNCY-2A4E7-KCEIR
+3OVUT-WXA2S-YYATE-JD44L
+STFL7-NHAQI-97VLW-FMIMI
+EGVP7-JIT4B-NFJ5Z-FSBW8
+QINK0-XEQ78-05113-T2XV1
+LMUFH-EENNX-LJPNI-9RQ1P
+DBC4I-UIVDO-8MGRT-KBT8R
+C0JRN-872HH-7HJX5-GIJFP
+DU6AJ-3SK29-3QM3H-83QLS
+QZNC9-PY9JI-97GZG-UUQKA
+S7KBZ-K2QZC-J3S0V-ZPL3V
+IUB5O-ZWX4V-O081Q-DD3HU
+GG7NT-I4EIC-GXENY-CXPCG
+DD2PL-BQKIY-9H3VJ-7LFSB
+YIMST-11NVU-0NDWD-20NZ5
+LOEEK-KWCEL-8LCYM-WT66H
+LEGUI-PA1YB-6QGQD-VWYZ2
+8IIWB-RCAYT-UW6KJ-ZKFY9
+TUISD-NGETH-M8MUD-JM5LC
+SHANI-PYZU8-K3ZT2-5VU8I
+G92H7-HIROO-D34KO-Y36CD
+54X8K-SX0PY-KB1OT-CSF8B
+YX0WA-DMA22-MPX4P-BYCPO
+JII60-5EAAF-GE2BI-EACI3
+AICRA-ZBPIT-HQ8JW-TJJSQ
+IU1PU-ECP3N-1JXWB-X8QOD
+OGCK2-Y123A-BSC9L-WT746
+A83UO-1YOR6-JCNTW-1IEZQ
+DD6GC-X6XQ1-C644L-RDAVJ
+6HUED-9FNWR-FQG25-5NV4N
+EHAYA-J9V1R-WPT77-1MOJS
+1WTEK-9QNTU-E5NOH-MEDH1
+3HU6B-0ZLAE-BIJGH-7PGR3
+24EGK-866PA-6ZG93-WNM1U
+YVTL5-QLM45-FS7K9-BGQLH
+8T4YP-YQQ2A-CZZG0-OUVBM
+OLMQC-4QWPD-MDBZ6-7WYV3
+34X8O-U4W0O-N89QY-JS41O
+XARY1-76P8F-H2S1K-WLZH6
+BX10R-Y7P6I-NHVAY-07QYP
+XHNVG-9ODY3-G45B9-4PZDL
+WHI7X-D9ZOJ-4J35K-8S4SH
+9QZAN-1RHEH-EYXGB-9DWG7
+C0M2K-OL3C4-PE775-Y2B41
+6RKNY-LYCA3-NWT0C-XBXOL
+6XEMS-DHWUB-D84YS-W3MAJ
+YO50D-ZXWU5-BGRT9-W0VXH
+3OJD6-5OKPQ-BN80Y-6JZP7
+37LK4-37T2R-BKKWL-JXIWL
+32ECT-B4LRI-SIYW7-FJI3K
+PG3GI-WQR5H-OC8C1-HWXTQ
+F4N1A-J3JB1-MUVW6-HBXCC
+NZ3I1-5S4M8-CXK19-GVB0K
+E0KO5-CC95J-ND43W-C568S
+5L2ZT-PLS68-9CJO5-4YJ11
+IA9TP-E3NQB-8MP6S-N4UHU
+S5ZC0-ENB1D-L2BPG-W29XZ
+CKGJ9-K6NXW-KK8LV-48GEO
+EKZQ1-CRO3H-NF08T-DM6SB
+ILVUZ-JUDTU-KWU3U-01TSK
+2CLUJ-MFY03-BI1F5-KC8PL
+GZQVH-3YVL3-N8WQ0-PNMI8
+99GAY-VYG9N-0GHRL-H9YLJ
+KCXEW-AQNI5-WNHVB-MA1S7
+ZX6BA-42JXL-3523X-M6MW9
+NQHUM-IRGVU-X2ERD-GIN3J
+RFRPM-AZESR-10ZON-PK5SC
+0DNWC-F77XF-Z8G24-GSCY0
+93ALQ-1PZL8-XUFTW-81AXW
+WCI3T-YJHFW-62RQC-R37HG
+CIMXD-7J3F1-X89C2-UJ4Y5
+4BB5S-RCBGE-HCSQA-GBCUX
+CVFLZ-XJRQX-UYB9N-19SPA
+ZYDNI-6VMIZ-HN2CR-S4VCT
+651PT-2YTWZ-KEFUH-VX1WZ
+2790Z-EAO3K-87AUS-XAAW6
+E457F-WU4J6-18HZK-1VY3M
+UI0VO-S6SXM-69L01-FO63T
+4OG5K-9ROWQ-JWVBW-SI2G1
+E0OG7-DUTBZ-WESBV-BD2XU
+5YSKK-BQJU4-BEOXT-T3CRM
+DB377-VDNFE-1DC8H-0ABZT
+I4FCE-LTCPX-M3CNI-11EEJ
+F2QYU-54RTN-7A2H2-5DX5G
+3HN7T-9UJZ4-FD3NA-T0U18
+4LKE9-AEDKA-157NA-2F785
+PKXLE-ZZ6CC-JDH4F-G47KX
+5ZPL8-FTDR8-VD2WG-0UK1J
+ER5WD-KIO5K-F3S74-UZ7HO
+PN3AB-NNEGD-79BD6-9MRUB
+F4AZ1-WHNL1-19ZOF-5V2CD
+O3W1S-AWKVH-S3Q8X-8U5Y9
+ZP396-N336J-GZPWA-GHYJW
+6T9Y3-XJUUA-BAJFN-AALL5
+6R42A-L9DMX-QVXII-JTX0Z
+B95IW-MHGMM-M7CB8-BSFEO
+XYQWP-RYZNL-OPXMY-WOJ0S
+S7WCC-J154T-VLS8V-DKTOK
+N22C4-GIGQN-QOCQV-R5QDA
+Q7742-4WO3I-427L2-PAB1U
+LV3HU-K4REP-SSRO5-5LY5T
+YP93O-JWXCJ-5HSDO-XWHDH
+LAJCN-WW8E5-AYODG-1WH5O
+BG7DT-PE4ZS-QRQN8-L0W4A
+JIUOF-GJJ3W-BN1EF-P95SQ
+LWBBC-BQKNU-YNTXZ-6XFLN
+8ZBD0-6I7KM-3R4H5-PUPWX
+XOJ0N-SF59P-M5G8P-PQH6H
+HNLXH-4W7RH-7RDQJ-DFFAU
+VMEEP-M056B-V8FJE-5VDXK
+SYM12-QKJTM-HH7YE-O2DZB
+X5CSH-KRQ2X-E7N9L-0K13U
+751VB-W1MTE-7HG82-JNF3B
+VDWGH-9GICW-IYUGD-RKTN8
+EQVPY-92BUC-N0JQB-3VB11
+5QAXA-XUKFO-N09MJ-NL27O
+WNLEL-96ZUK-VHMRL-YTGT9
+Z0BC7-8KKF8-N0234-R0Y3L
+HNHCX-YIJBN-XT30L-0TX4P
+A9OYV-S57XR-7Z5MQ-J6J57
+50VZT-FZQMW-LZ8DB-U54CS
+NU7FU-5NLBJ-0GT63-450PT
+YCOX3-X3J1K-NM4CD-9OJGL
+HRU7S-K068T-P3NPA-1QBDT
+VWZWC-UQVID-8JWQO-DJ7BK
+PT560-ZPVO5-I6QPC-TEPTU
+L2WR5-0ZAPW-Z94QK-RH2UC
+XU5F2-69NAM-O7W4W-3SL2Z
+KZXKO-DFHQI-BY6EK-TGCOQ
+KUH9C-IM94P-LJ4U3-YLJMO
+VAJZZ-P15W2-J7M8E-5NFNU
+IZ002-EDJX7-RMAOQ-7C4IS
+Y1TNT-1K0XJ-USAV5-SUYG1
+GKBUW-1AEG1-HQL7B-433IG
+5W92P-3VMVW-81KD1-Q2353
+VPUSO-YGL69-M9YV2-5431M
+2X7BK-8132U-IWR6L-8JOUC
+39KA5-1RJQK-B0PX4-67SV3
+HI7MB-JANZT-VJJHM-5L6V1
+M8B4P-RA964-62GJT-CE38W
+P15JA-6YIJH-7R23A-ZOMEY
+LNY1T-R54IM-277QM-JBNHV
+AK0SU-JOIKN-LT3ID-S34JB
+1S0EF-VC4FR-WYHNR-X7W10
+371JB-TX6NM-RBNXN-DIZRY
+HSL8V-JRQ7S-N3CIS-WVES1
+EUCQ0-3CH57-QQGNB-A4MY4
+NTTPC-R7WN3-7EJKE-GO2BJ
+Q8FXW-6WY6T-UTYQW-UJRB0
+FLWFR-PDDID-09JJW-ZOXLZ
+ZAS6Y-18V84-2X051-I638J
+CKOQC-VRB8A-2S1DJ-Z5O72
+ATNO2-7N7SS-Q3S05-JXILX
+GK5YU-UX2B0-TIACT-Q2VQV
+4MDR7-HM33A-DXQFE-IWACI
+UTYAE-TCRRN-D63BM-53FCJ
+4WD0Z-X97YD-72P2C-PYMKV
+IJ7N2-POFID-934LU-BWUIM
+RDNUD-5G5NQ-VJB1C-CIZH9
+MFV5G-MT0G2-FTUEB-T7IHB
+U82BG-CQ6P5-L55V6-JLR76
+90SL8-T9DWO-NETGZ-CDC0R
+9LZ0J-5TTK1-K1O7S-SXHG2
+ZVA1J-PDRZ6-08MJ7-NAKYM
+U29CD-MTLNB-2NH23-A5VKF
+TCXFQ-JKNYZ-S555D-PXT8R
+KI6B1-B8NQH-BQU1X-8F0EB
+WW7HI-MU2E8-WBXK1-Z1CFL
+LXT9A-J2Z5J-3XR9Q-WEZVA
+8QTIM-3TDJN-AW9FA-SL52H
+BXHX5-SSL67-H6VQ7-NDCHZ
+AH2H0-B56UI-3062R-4TG1Z
+4BNYA-NT4TH-JJ46Y-NNJYC
+KB9X8-8HVL3-PHJV8-M9WFH
+14K7D-P8NJF-F6L9E-QDMC2
+OA3MR-HGVAX-0AP8E-6LCDG
+OU0R6-9POWX-JX4NC-HOAY1
+V3KZF-UMJJC-TMT8W-C322O
+AVJHT-ZXXOB-XVA0K-7UM0V
+LBCA9-14MOP-OY69F-O8DYK
+I8OQ9-ZIQF4-1XBI1-4GB8S
+QK04D-YLVBC-TFJ4I-WJ067
+FZ612-ACUWD-8MIFX-AAYOP
+CY9JH-60RO0-GHI81-QMR0R
+YGEJV-0M1OC-JN6PH-SWF6N
+0YBAC-84129-II56A-LP0DN
+2K42U-IHDTB-KACGX-OF8WB
+9HKMS-2FN7I-91ZTV-J25SZ
+A2ZEZ-LBK2X-SWRKB-TAUHF
+QMYZG-UGXZM-PMQYP-JVLL3
+IRGT8-53SCK-MXLDU-Q65IM
+XP21F-0GV7E-DVCNS-3CML5
+QCXPW-T93XB-P37QV-PZA0K
+OO905-ZG1BO-RGJ9Y-AWDJD
+1Q7X4-KEBFZ-RWT6S-WKP8O
+A0HX9-6KD6W-97I3R-JWQOB
+T9E53-HKYNF-P8ZNK-V9IEZ
+NUQRP-680P8-0NX83-N9KT3
+7IUPB-XYPXK-SBHI4-8RRBD
+1ZNFU-5FRFF-R7TAR-CVWEG
+0VYVC-5ICNH-L0K2X-BE8TV
+HOIQW-WS3M9-B1NT6-V6DMM
+4ESCV-PKB6O-NKABD-1RQ8W
+Q9FSG-72GQ3-ZQ4RQ-OJ2D0
+01OGB-LTAJ4-6TV4G-A3RSB
+DPGKI-48DC2-053JE-VIC7K
+CPQ3D-B3V93-EGR9K-RL0RF
+S4L3Z-ZE7Z1-KPQW6-CXENU
+HON6U-HKWST-SSJMZ-N0H7K
+HA071-23CKA-F16DP-TXK64
+YF6BM-0B6F7-5XM0T-TNS48
+P826Z-4BNTR-BQKNN-CC6DM
+Y1Q5B-I3Q3P-9ODLC-66N5I
+3DR77-81HIU-7WJNH-I984O
+P19SJ-RBOLC-0S6JE-L5668
+AUTBY-0VT9S-UA5EP-YLS3O
+RNGB7-0CPIV-N8KZY-AA1SE
+OJ5UM-PSQDX-3J8GP-ZQP3W
+EETLP-3BQ9Q-IZ78H-8JE6B
+U7TUR-KH4SR-WPYNL-OOYLY
+OLKRU-6UWNU-D62WW-YLG7Z
+RW7X9-V6OGC-XOFXB-6G11H
+S1O75-6319M-1LPR6-A0Y0N
+C5ZJ6-AM9GJ-R1A3F-JKSLO
+L0H10-YWZO2-TQMZO-FNFL3
+ZW7GV-VWO28-4RJYQ-2XQYB
+FMR1M-CNXS0-VDV6U-OQB4F
+WQOGT-0TUS7-091XR-4I352
+46X0K-W5IEW-2EP5I-F0URO
+5QJS9-3U8DX-XXYJ2-GPKXI
+76R47-GQDOV-KOXJ9-B919C
+Q1HQB-07AEL-3FR1S-HI9LT
+7UZ16-9KLR9-TSJ54-EGX0V
+4ZIME-XFDL0-TKFNK-AA114
+943XG-BDC3J-BM36M-V7SOL
+FOT9W-VLAY6-Y711E-JGRO5
+NSDT4-HRWOF-61DR2-LI9NV
+RWI65-VBRV6-DYE9F-C2QVR
+EK7GF-CFX5B-B6R1Y-OPRGH
+103S0-NTTU8-U6ORE-EHZHV
+BOPB6-TAKJJ-JQ13F-6JMA9
+WDWO9-Q1LXF-6WTBF-EVMA0
+LXEUG-7HUMO-JCM3Z-38UHS
+R3FGV-R2PYT-1829E-EOUTQ
+BZCLQ-P338F-NMIQJ-4QMZ3
+6J5KK-N01KE-QMIGS-N6NO4
+HDBK1-E0149-ZWCJJ-5K1KB
+2VNND-FI2K0-FUQRD-TYOCU
+26USC-F74CE-CGTY0-709GI
+5WSJB-TGE2R-MI6N5-VVPYT
+Q1PRA-9QBJQ-XZ2VA-QHZ8Y
+I7C07-L6DG1-KHKVT-OKFYM
+F5VXM-D0O9M-BXN8Q-2PT6W
+1B254-BSNV8-IWT0E-GNF2G
+3Z98Y-RUM4K-RGBZK-MXOT5
+B679B-292C2-JJBXL-WAD0D
+XE34Y-RPQCY-5DBCG-HGJBR
+AE78T-0T33X-YTNUS-9IJ1W
+1TS7P-PJZ5G-NH8GD-VH7VT
+Q8SFU-R008L-XL8CU-0V26Y
+04I4E-TN3YK-46ANT-3DY4A
+32ZW3-WPLBV-73LDU-X2LM9
+GTF70-M08AV-Y6TZJ-EK7MO
+AMVCE-ML06W-Z82V7-GD0SX
+O2ISE-VHWIH-4H9T0-W30I7
+GLUVW-K494F-WWYEI-P7IBS
+OEEOM-SPYRQ-HB4Q3-MRK5G
+ATC5L-NGR2H-LKCQ2-5VK1G
+WRJTH-FVWPG-P3IK9-NT8UL
+D1PF4-DJWLN-3O4O3-8SEAZ
+8QYOH-BAAMU-C3U60-WKDVM
+KYTG7-K2ME2-YC8HT-F0KH6
+BSFZX-Q34KJ-L5J4W-5IOAF
+CX4UK-Y8WF1-IQFOR-PENWI
+G3O7I-4WCXO-7QVJW-3YHGX
+TP4D0-GV0NG-DZA2G-2P8MW
+M9K9W-H61V9-ZV6VQ-UTTXE
+J2I9A-YWL1Y-1A3HT-3IAG6
+TBW8W-SJE3W-OXZCD-KDWL5
+0ISRV-J39ZN-OGTX7-QRP6X
+TJPLS-NGO8Q-47N25-BHPC3
+PMDHZ-5UWTB-SPEYJ-0HMGA
+IX0NM-IUE2O-4XLB1-RU8K7
+BW47W-P31XT-UZ62Z-IDYX7
+JUAWS-PISR9-T7WAD-I12G6
+OFSEJ-518NX-EBT9F-HJDEQ
+5AON8-ZZRKB-8J034-VYYTJ
+NIF61-H6XFM-AOKEE-9L3BJ
+PBQ47-ENHWW-Z49HS-8NXWR
+LN4QE-6X4GG-XLJYB-O3NSA
+BSOEJ-VOP0X-04ER3-PDMHU
+QF384-O77AH-ZW5XO-5G7KG
+5Z3J4-G2HBA-OG4O4-6F8SN
+2X8FG-27KXF-63MDJ-YZ7WI
+7TUXQ-NPU05-IE18J-95XTM
+QLEOY-D5MUF-3BUHE-RA9F8
+VU5IX-F9TB4-L8KU9-3PG1Q
+A3CIU-OOBBJ-CGFH8-B2PXD
+IYZ8A-A8PJJ-M1N34-Q3VA7
+6RTVN-LALBT-766DO-7JCBA
+3WZNG-SJKS9-4V8BZ-0JSDX
+CJDAL-JFX8A-H3BFG-DRRLG
+XD5UF-NOC6S-8J5BM-X8ED3
+AHBUS-9GWPX-9220B-MK191
+I2P12-OPWF5-Y9WH9-UDGEY
+LHNXT-MHLNO-IN6RI-H4ETW
+GCNBU-8ZXKE-5BBC4-27VVG
+06RI3-LXTD6-OTDO8-E0D04
+S20ND-WSZN7-NEED7-RVXB8
+G1VRM-3MXOX-6L1GK-0IUXM
+RBTFQ-SLABE-90OA3-VOFI7
+VFG6D-AYIIY-G9X9N-GBSUW
+OBFTS-JAZHP-P2E3T-4BDXB
+YOQ1J-JISI5-2GBWN-L8EVS
+SCV70-8X5PQ-NOD9P-CW0Z5
+467X3-UNNNM-7NI3Q-0XM54
+2THQ8-L1Y82-ZCTOR-HEVSW
+20W3N-MCR4T-4LKHJ-5OYYN
+IHAR4-3T2FL-S9NBL-X5TYH
+7QP13-T1V4Z-E5F87-A1DPF
+XFRGF-4B2ZH-K77H3-6WVZ2
+FSGG7-GTMFT-J5FAO-QMYDI
+LQF8L-ITM8S-N8A8Z-LDGY2
+D2W2T-J9XBD-3PEJG-GJTMH
+BK1LK-5JIH8-KGDQF-PMIF7
+A43C1-2RGA4-0D14C-NW4QD
+ZR6XM-IK7WS-174FH-W0UYN
+CNG69-3X4B5-ZFAXM-X9TNS
+YWB10-MT12J-21DSW-T31IF
+RM62T-SETBN-SVRLM-9ZL0G
+7L8NM-QFJ0J-956JS-UB5JN
+CZJ0O-0KXLN-E57JE-NWHP6
+BWQUX-OPNZR-14KZP-8W7SH
+SMB1J-DJ0M9-T3SDN-BEWV2
+ULAGX-ONUI8-D92YL-2KRXV
+7D78H-US0EE-9EACN-1W70E
+DMV5L-CHI2Z-UBH7L-UDBGB
+7B6V0-ZF6OJ-B174I-Y455N
+KXW7M-3BR4O-G8TNI-G71BX
+LE0FO-6REUG-PHEKP-QGYGA
+HLVOY-962UE-BW2IC-RDHP3
+QLVEQ-V6L32-FIU0P-05ZIK
+HOHVX-6TW1Q-BLLBE-PXNXH
+3V551-D5NWU-9TG3B-RMQPQ
+FVXZN-J3IUX-5G64F-6XYZO
+OB7M3-MI481-M4OMC-4VY2W
+SDIWZ-LIGQC-HGSVC-R0ZK3
+HV8MB-ZWZ1A-KA5UD-89VA2
+[Serials_End]
+[Commands]
